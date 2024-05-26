@@ -6,8 +6,6 @@
 
 I am a coping software engineer keen on the latest development tools. I have been primarily working on personal projects and as a freelance developer. MERN has been my choice of tech stack for full-stack development and Flutter is my go-to framework for mobile application development. I always seek to meet the latest technology standards and guidelines and find trying out new frameworks and software tools fun.
 
-🚀 I am constantly expanding my skill set and staying up to date with the latest trends in web development. I'm a strong believer in clean code, test-driven development, and continuous learning.
-
 ## 🌐 Socials
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:bereketzemed@gmailcom)](mailto:bereketzemed@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bek_zemed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bereket-zemed/)
